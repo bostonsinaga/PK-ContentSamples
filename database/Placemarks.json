@@ -3,36 +3,37 @@
         "id": "y8X",
         "name": "Wisma 46",
         "type": "pop",
-        "date": ["01/01/2024", "12:00"],
+        "time": {"date": "01/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.203740366012189,
             "longitude": 106.820489415607
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -40,36 +41,37 @@
         "id": "ihR",
         "name": "BSD Greeen Office",
         "type": "pop",
-        "date": ["02/01/2024", "12:00"],
+        "time": {"date": "02/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.299881907715208,
             "longitude": 106.6511587199591
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -77,36 +79,37 @@
         "id": "Ldm",
         "name": "Puri Indah Mall",
         "type": "odc",
-        "date": ["03/01/2024", "12:00"],
+        "time": {"date": "03/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.188686561168089,
             "longitude": 106.7331498245291
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -114,36 +117,37 @@
         "id": "w0t",
         "name": "Universitas Marcu Buana",
         "type": "client",
-        "date": ["04/01/2024", "12:00"],
+        "time": {"date": "04/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.20937579810168,
             "longitude": 106.7386168562176
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -151,36 +155,37 @@
         "id": "02y",
         "name": "Pondok Indah Mall",
         "type": "client",
-        "date": ["05/01/2024", "12:00"],
+        "time": {"date": "05/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.263684163807168,
             "longitude": 106.7835697831761
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -188,36 +193,37 @@
         "id": "Aj9",
         "name": "AEON Mall",
         "type": "client",
-        "date": ["06/01/2024", "12:00"],
+        "time": {"date": "06/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.305289862096338,
             "longitude": 106.6425087533912
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -225,36 +231,37 @@
         "id": "PRZ",
         "name": "HH 1",
         "type": "hh",
-        "date": ["07/01/2024", "12:00"],
+        "time": {"date": "07/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.229186073976287,
             "longitude": 106.7994011299966
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -262,36 +269,37 @@
         "id": "yMX",
         "name": "HH 2",
         "type": "hh",
-        "date": ["08/01/2024", "12:00"],
+        "time": {"date": "08/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.23901868489064,
             "longitude": 106.7828787616787
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -299,36 +307,37 @@
         "id": "JkV",
         "name": "Closure 1",
         "type": "closure",
-        "date": ["09/01/2024", "12:00"],
+        "time": {"date": "09/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.229186073976287,
             "longitude": 106.7994011299966
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -336,36 +345,37 @@
         "id": "qoc",
         "name": "Closure 2",
         "type": "closure",
-        "date": ["10/01/2024", "12:00"],
+        "time": {"date": "10/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.23901868489064,
             "longitude": 106.7828787616787
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -373,36 +383,37 @@
         "id": "4hc",
         "name": "Closure 3",
         "type": "closure",
-        "date": ["11/01/2024", "12:00"],
+        "time": {"date": "11/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.234979231437773,
             "longitude": 106.7390939510294
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -410,36 +421,37 @@
         "id": "kT0",
         "name": "Closure 4",
         "type": "closure",
-        "date": ["12/01/2024", "12:00"],
+        "time": {"date": "12/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.244266521233141,
             "longitude": 106.7000123324157
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -447,36 +459,37 @@
         "id": "Vpa",
         "name": "Closure 5",
         "type": "closure",
-        "date": ["13/01/2024", "12:00"],
+        "time": {"date": "13/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.283570137533287,
             "longitude": 106.683533125114
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -484,36 +497,37 @@
         "id": "tJ0",
         "name": "ODP 1",
         "type": "odp",
-        "date": ["14/01/2024", "12:00"],
+        "time": {"date": "14/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.209039279191188,
             "longitude": 106.8214344130521
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -521,36 +535,37 @@
         "id": "HQJ",
         "name": "ODP 2",
         "type": "odp",
-        "date": ["15/01/2024", "12:00"],
+        "time": {"date": "15/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.221026865871118,
             "longitude": 106.810114976097
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -558,36 +573,37 @@
         "id": "DLO",
         "name": "ODP 3",
         "type": "odp",
-        "date": ["16/01/2024", "12:00"],
+        "time": {"date": "16/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.237554092576467,
             "longitude": 106.7606554664078
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -595,36 +611,37 @@
         "id": "Shx",
         "name": "ODP 4",
         "type": "odp",
-        "date": ["17/01/2024", "12:00"],
+        "time": {"date": "17/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.220187128861757,
             "longitude": 106.7375194143359
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -632,36 +649,37 @@
         "id": "BKq",
         "name": "ODP 5",
         "type": "odp",
-        "date": ["18/01/2024", "12:00"],
+        "time": {"date": "18/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.197973071499316,
             "longitude": 106.7424218789409
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -669,36 +687,37 @@
         "id": "qkn",
         "name": "ODP 6",
         "type": "odp",
-        "date": ["19/01/2024", "12:00"],
+        "time": {"date": "19/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.229444656810559,
             "longitude": 106.7215956509905
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -706,36 +725,37 @@
         "id": "NXJ",
         "name": "ODP 7",
         "type": "odp",
-        "date": ["20/01/2024", "12:00"],
+        "time": {"date": "20/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.255771488708132,
             "longitude": 106.6870916911484
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -743,36 +763,37 @@
         "id": "IEf",
         "name": "ODP 8",
         "type": "odp",
-        "date": ["21/01/2024", "12:00"],
+        "time": {"date": "21/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.283951005051823,
             "longitude": 106.6657901836825
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -780,36 +801,37 @@
         "id": "EOs",
         "name": "Tiang 1",
         "type": "pole",
-        "date": ["22/01/2024", "12:00"],
+        "time": {"date": "22/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.300187575294919,
             "longitude": 106.6591135791812
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -817,36 +839,37 @@
         "id": "aT6",
         "name": "Tiang 2",
         "type": "pole",
-        "date": ["23/01/2024", "12:00"],
+        "time": {"date": "23/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.293032116546406,
             "longitude": 106.6658664066323
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -854,36 +877,37 @@
         "id": "kG1",
         "name": "Tiang 3",
         "type": "pole",
-        "date": ["24/01/2024", "12:00"],
+        "time": {"date": "24/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.28081095077185,
             "longitude": 106.6973700802124
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -891,36 +915,37 @@
         "id": "75C",
         "name": "Tiang 4",
         "type": "pole",
-        "date": ["25/01/2024", "12:00"],
+        "time": {"date": "25/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.267232178126514,
             "longitude": 106.6882527777778
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -928,36 +953,37 @@
         "id": "rZh",
         "name": "Tiang 5",
         "type": "pole",
-        "date": ["26/01/2024", "12:00"],
+        "time": {"date": "26/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.252965961999497,
             "longitude": 106.6952878416912
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -965,36 +991,37 @@
         "id": "9Xc",
         "name": "Tiang 6",
         "type": "pole",
-        "date": ["27/01/2024", "12:00"],
+        "time": {"date": "27/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.231913109560736,
             "longitude": 106.7019800585037
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -1002,36 +1029,37 @@
         "id": "pM6",
         "name": "Tiang 7",
         "type": "pole",
-        "date": ["28/01/2024", "12:00"],
+        "time": {"date": "28/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.224775084855121,
             "longitude": 106.7088593415605
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -1039,36 +1067,37 @@
         "id": "pDk",
         "name": "Tiang 8",
         "type": "pole",
-        "date": ["29/01/2024", "12:00"],
+        "time": {"date": "29/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.232159037212683,
             "longitude": 106.7295682645394
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -1076,36 +1105,37 @@
         "id": "f5Q",
         "name": "Tiang 9",
         "type": "pole",
-        "date": ["30/01/2024", "12:00"],
+        "time": {"date": "30/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.236646976944196,
             "longitude": 106.7510693469514
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -1113,36 +1143,37 @@
         "id": "7Df",
         "name": "Tiang 10",
         "type": "pole",
-        "date": ["31/01/2024", "12:00"],
+        "time": {"date": "31/01/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.238279293381915,
             "longitude": 106.7739399658375
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -1150,36 +1181,37 @@
         "id": "7LD",
         "name": "Tiang 11",
         "type": "pole",
-        "date": ["01/02/2024", "12:00"],
+        "time": {"date": "01/02/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.233565321092907,
             "longitude": 106.7940305555556
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -1187,36 +1219,37 @@
         "id": "yID",
         "name": "Tiang 12",
         "type": "pole",
-        "date": ["02/02/2024", "12:00"],
+        "time": {"date": "02/02/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.21754183015111,
             "longitude": 106.8143977691668
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -1224,36 +1257,37 @@
         "id": "Awc",
         "name": "Tiang 13",
         "type": "pole",
-        "date": ["03/02/2024", "12:00"],
+        "time": {"date": "03/02/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.227376948964107,
             "longitude": 106.7377058888907
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -1261,36 +1295,37 @@
         "id": "R3C",
         "name": "Tiang 14",
         "type": "pole",
-        "date": ["04/02/2024", "12:00"],
+        "time": {"date": "04/02/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.21477852604438,
             "longitude": 106.7375892098471
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -1298,36 +1333,37 @@
         "id": "W3x",
         "name": "Tiang 15",
         "type": "pole",
-        "date": ["05/02/2024", "12:00"],
+        "time": {"date": "05/02/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.202831566457658,
             "longitude": 106.7392130533266
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -1335,36 +1371,37 @@
         "id": "NFO",
         "name": "Tiang 16",
         "type": "pole",
-        "date": ["06/02/2024", "12:00"],
+        "time": {"date": "06/02/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.192722166650666,
             "longitude": 106.7424256842736
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     },
@@ -1372,36 +1409,37 @@
         "id": "qXg",
         "name": "Tiang 17",
         "type": "pole",
-        "date": ["07/02/2024", "12:00"],
+        "time": {"date": "07/02/2024", "hour": "12:00"},
         "coordinate": {
             "latitude": -6.190852215642356,
             "longitude": 106.7362609587256
         },
+        "note": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet neque ad sequi odio dolor quod sunt commodi veritatis corrupti tenetur cumque quia recusandae dolores optio fugiat possimus, eum maxime dolore? Quas reiciendis sequi quisquam! Est repellat necessitatibus quod beatae sit deserunt placeat doloremque nesciunt consequatur consectetur nihil optio exercitationem quidem a neque quaerat, cumque dignissimos unde? Dolorum animi doloremque mollitia? Ipsum blanditiis accusantium soluta harum natus eligendi beatae nesciunt, praesentium fuga voluptatibus, illum sunt molestias est pariatur, hic corrupti? Fuga, eum neque earum voluptatem dolore doloremque voluptatibus ut asperiores cupiditate! Asperiores natus explicabo cumque nemo, iste quos facere molestiae similique beatae deserunt velit? Quisquam culpa sint natus soluta delectus minus ab, minima nemo maxime, voluptates alias, at quam quaerat porro! Ad aspernatur libero facilis sit dolor consectetur labore officiis. Dolores corrupti repellendus iusto odit, excepturi obcaecati! Ipsum repellat reprehenderit suscipit saepe velit maiores ratione temporibus exercitationem ut, commodi labore distinctio? Impedit hic est inventore eveniet repellendus tempora cumque debitis corrupti delectus vitae id dolore voluptates ut, qui quod omnis, ipsum at quas neque quia recusandae nulla tenetur. Ducimus, dolor eum. Adipisci deserunt veniam perspiciatis! Doloremque, maxime quo tempore nisi, libero magnam quam dicta recusandae doloribus officiis laudantium perspiciatis. Rem asperiores dicta deleniti excepturi culpa necessitatibus blanditiis placeat fugiat nesciunt illum? Maiores delectus enim possimus repellendus optio aliquid atque laudantium, expedita voluptatum beatae cum, rerum illo est praesentium. Soluta minima veniam, id voluptas debitis quibusdam fugiat? Nostrum saepe accusantium odio vitae. Tempore, maxime distinctio! Sint nisi magni architecto minima dignissimos, culpa cumque repudiandae asperiores est? Expedita dolor ea dolorem nobis, eius praesentium sint similique necessitatibus aut pariatur sed ipsum quaerat facilis. Fugiat similique eaque labore dolorum illum! Perferendis cumque praesentium perspiciatis asperiores natus amet alias architecto vitae aliquid, doloremque odit incidunt sunt eligendi maiores! Possimus, dolore saepe. Odit aut quidem accusantium?",
         "imagesUrl": [
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
                 "name": "1512 tiang kurang dalam",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
                 "name": "1357 tiang miring",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
                 "name": "770 cor rusak",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
                 "name": "630 krosing sungai",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             },
             {
                 "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
                 "name": "362 krosing spbu",
-                "date": "17/08/2024"
+                "time": {"date": "17/08/2024", "hour": "12:00"}
             }
         ]
     }
