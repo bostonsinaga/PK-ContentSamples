@@ -1,0 +1,1409 @@
+[
+    {
+        "id": "y8X",
+        "name": "Wisma 46",
+        "type": "pop",
+        "date": ["01/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.203740366012189,
+            "longitude": 106.820489415607
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "ihR",
+        "name": "BSD Greeen Office",
+        "type": "pop",
+        "date": ["02/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.299881907715208,
+            "longitude": 106.6511587199591
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "Ldm",
+        "name": "Puri Indah Mall",
+        "type": "odc",
+        "date": ["03/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.188686561168089,
+            "longitude": 106.7331498245291
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "w0t",
+        "name": "Universitas Marcu Buana",
+        "type": "client",
+        "date": ["04/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.20937579810168,
+            "longitude": 106.7386168562176
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "02y",
+        "name": "Pondok Indah Mall",
+        "type": "client",
+        "date": ["05/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.263684163807168,
+            "longitude": 106.7835697831761
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "Aj9",
+        "name": "AEON Mall",
+        "type": "client",
+        "date": ["06/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.305289862096338,
+            "longitude": 106.6425087533912
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "PRZ",
+        "name": "HH 1",
+        "type": "hh",
+        "date": ["07/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.229186073976287,
+            "longitude": 106.7994011299966
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "yMX",
+        "name": "HH 2",
+        "type": "hh",
+        "date": ["08/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.23901868489064,
+            "longitude": 106.7828787616787
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "JkV",
+        "name": "Closure 1",
+        "type": "closure",
+        "date": ["09/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.229186073976287,
+            "longitude": 106.7994011299966
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "qoc",
+        "name": "Closure 2",
+        "type": "closure",
+        "date": ["10/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.23901868489064,
+            "longitude": 106.7828787616787
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "4hc",
+        "name": "Closure 3",
+        "type": "closure",
+        "date": ["11/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.234979231437773,
+            "longitude": 106.7390939510294
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "kT0",
+        "name": "Closure 4",
+        "type": "closure",
+        "date": ["12/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.244266521233141,
+            "longitude": 106.7000123324157
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "Vpa",
+        "name": "Closure 5",
+        "type": "closure",
+        "date": ["13/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.283570137533287,
+            "longitude": 106.683533125114
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "tJ0",
+        "name": "ODP 1",
+        "type": "odp",
+        "date": ["14/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.209039279191188,
+            "longitude": 106.8214344130521
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "HQJ",
+        "name": "ODP 2",
+        "type": "odp",
+        "date": ["15/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.221026865871118,
+            "longitude": 106.810114976097
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "DLO",
+        "name": "ODP 3",
+        "type": "odp",
+        "date": ["16/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.237554092576467,
+            "longitude": 106.7606554664078
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "Shx",
+        "name": "ODP 4",
+        "type": "odp",
+        "date": ["17/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.220187128861757,
+            "longitude": 106.7375194143359
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "BKq",
+        "name": "ODP 5",
+        "type": "odp",
+        "date": ["18/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.197973071499316,
+            "longitude": 106.7424218789409
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "qkn",
+        "name": "ODP 6",
+        "type": "odp",
+        "date": ["19/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.229444656810559,
+            "longitude": 106.7215956509905
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "NXJ",
+        "name": "ODP 7",
+        "type": "odp",
+        "date": ["20/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.255771488708132,
+            "longitude": 106.6870916911484
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "IEf",
+        "name": "ODP 8",
+        "type": "odp",
+        "date": ["21/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.283951005051823,
+            "longitude": 106.6657901836825
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "EOs",
+        "name": "Tiang 1",
+        "type": "pole",
+        "date": ["22/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.300187575294919,
+            "longitude": 106.6591135791812
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "aT6",
+        "name": "Tiang 2",
+        "type": "pole",
+        "date": ["23/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.293032116546406,
+            "longitude": 106.6658664066323
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "kG1",
+        "name": "Tiang 3",
+        "type": "pole",
+        "date": ["24/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.28081095077185,
+            "longitude": 106.6973700802124
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "75C",
+        "name": "Tiang 4",
+        "type": "pole",
+        "date": ["25/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.267232178126514,
+            "longitude": 106.6882527777778
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "rZh",
+        "name": "Tiang 5",
+        "type": "pole",
+        "date": ["26/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.252965961999497,
+            "longitude": 106.6952878416912
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "9Xc",
+        "name": "Tiang 6",
+        "type": "pole",
+        "date": ["27/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.231913109560736,
+            "longitude": 106.7019800585037
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "pM6",
+        "name": "Tiang 7",
+        "type": "pole",
+        "date": ["28/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.224775084855121,
+            "longitude": 106.7088593415605
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "pDk",
+        "name": "Tiang 8",
+        "type": "pole",
+        "date": ["29/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.232159037212683,
+            "longitude": 106.7295682645394
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "f5Q",
+        "name": "Tiang 9",
+        "type": "pole",
+        "date": ["30/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.236646976944196,
+            "longitude": 106.7510693469514
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "7Df",
+        "name": "Tiang 10",
+        "type": "pole",
+        "date": ["31/01/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.238279293381915,
+            "longitude": 106.7739399658375
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "7LD",
+        "name": "Tiang 11",
+        "type": "pole",
+        "date": ["01/02/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.233565321092907,
+            "longitude": 106.7940305555556
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "yID",
+        "name": "Tiang 12",
+        "type": "pole",
+        "date": ["02/02/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.21754183015111,
+            "longitude": 106.8143977691668
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "Awc",
+        "name": "Tiang 13",
+        "type": "pole",
+        "date": ["03/02/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.227376948964107,
+            "longitude": 106.7377058888907
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "R3C",
+        "name": "Tiang 14",
+        "type": "pole",
+        "date": ["04/02/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.21477852604438,
+            "longitude": 106.7375892098471
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "W3x",
+        "name": "Tiang 15",
+        "type": "pole",
+        "date": ["05/02/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.202831566457658,
+            "longitude": 106.7392130533266
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "NFO",
+        "name": "Tiang 16",
+        "type": "pole",
+        "date": ["06/02/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.192722166650666,
+            "longitude": 106.7424256842736
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    },
+    {
+        "id": "qXg",
+        "name": "Tiang 17",
+        "type": "pole",
+        "date": ["07/02/2024", "12:00"],
+        "coordinate": {
+            "latitude": -6.190852215642356,
+            "longitude": 106.7362609587256
+        },
+        "imagesUrl": [
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1512-tiang-kurang-dalam.jpg",
+                "name": "1512 tiang kurang dalam",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/1357-tiang-miring.jpg",
+                "name": "1357 tiang miring",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/770-cor-rusak.jpg",
+                "name": "770 cor rusak",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/630-krosing-sungai.jpg",
+                "name": "630 krosing sungai",
+                "date": "17/08/2024"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/bostonsinaga/PK-ContentSamples/main/362-krosing-spbu.jpg",
+                "name": "362 krosing spbu",
+                "date": "17/08/2024"
+            }
+        ]
+    }
+]
+
