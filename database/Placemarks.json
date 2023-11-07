@@ -1,5 +1,6 @@
 [
     {
+        "_id": "sjavs",
         "name": "Wisma 46",
         "type": "pop",
         "time": {"date": "01/01/2024", "hour": "12:00"},
@@ -37,6 +38,7 @@
         ]
     },
     {
+        "_id": "8udvja",
         "name": "BSD Greeen Office",
         "type": "pop",
         "time": {"date": "02/01/2024", "hour": "12:00"},
@@ -74,6 +76,7 @@
         ]
     },
     {
+        "_id": "6vhal",
         "name": "Puri Indah Mall",
         "type": "odc",
         "time": {"date": "03/01/2024", "hour": "12:00"},
@@ -111,6 +114,7 @@
         ]
     },
     {
+        "_id": "sva09",
         "name": "Universitas Marcu Buana",
         "type": "client",
         "time": {"date": "04/01/2024", "hour": "12:00"},
@@ -148,6 +152,7 @@
         ]
     },
     {
+        "_id": "inva",
         "name": "Pondok Indah Mall",
         "type": "client",
         "time": {"date": "05/01/2024", "hour": "12:00"},
@@ -185,6 +190,7 @@
         ]
     },
     {
+        "_id": "kvasafasv",
         "name": "AEON Mall",
         "type": "client",
         "time": {"date": "06/01/2024", "hour": "12:00"},
@@ -222,6 +228,7 @@
         ]
     },
     {
+        "_id": "vaslsf",
         "name": "HH 1",
         "type": "hh",
         "time": {"date": "07/01/2024", "hour": "12:00"},
@@ -259,6 +266,7 @@
         ]
     },
     {
+        "_id": "cakvoasmv",
         "name": "HH 2",
         "type": "hh",
         "time": {"date": "08/01/2024", "hour": "12:00"},
@@ -296,6 +304,7 @@
         ]
     },
     {
+        "_id": "83ugvdnsg",
         "name": "Closure 1",
         "type": "closure",
         "time": {"date": "09/01/2024", "hour": "12:00"},
@@ -333,6 +342,7 @@
         ]
     },
     {
+        "_id": "v7hakv",
         "name": "Closure 2",
         "type": "closure",
         "time": {"date": "10/01/2024", "hour": "12:00"},
@@ -370,6 +380,7 @@
         ]
     },
     {
+        "_id": "0ndkva",
         "name": "Closure 3",
         "type": "closure",
         "time": {"date": "11/01/2024", "hour": "12:00"},
@@ -407,6 +418,7 @@
         ]
     },
     {
+        "_id": "8valvv",
         "name": "Closure 4",
         "type": "closure",
         "time": {"date": "12/01/2024", "hour": "12:00"},
@@ -444,6 +456,7 @@
         ]
     },
     {
+        "_id": "1234kfm",
         "name": "Closure 5",
         "type": "closure",
         "time": {"date": "13/01/2024", "hour": "12:00"},
@@ -481,6 +494,7 @@
         ]
     },
     {
+        "_id": "0jagm",
         "name": "ODP 1",
         "type": "odp",
         "time": {"date": "14/01/2024", "hour": "12:00"},
@@ -518,6 +532,7 @@
         ]
     },
     {
+        "_id": "88gjalg",
         "name": "ODP 2",
         "type": "odp",
         "time": {"date": "15/01/2024", "hour": "12:00"},
@@ -555,6 +570,7 @@
         ]
     },
     {
+        "_id": "777gjagm",
         "name": "ODP 3",
         "type": "odp",
         "time": {"date": "16/01/2024", "hour": "12:00"},
@@ -592,6 +608,7 @@
         ]
     },
     {
+        "_id": "udgangk3",
         "name": "ODP 4",
         "type": "odp",
         "time": {"date": "17/01/2024", "hour": "12:00"},
@@ -629,6 +646,7 @@
         ]
     },
     {
+        "_id": "56lld99",
         "name": "ODP 5",
         "type": "odp",
         "time": {"date": "18/01/2024", "hour": "12:00"},
@@ -666,6 +684,7 @@
         ]
     },
     {
+        "_id": "vakngnag9",
         "name": "ODP 6",
         "type": "odp",
         "time": {"date": "19/01/2024", "hour": "12:00"},
@@ -703,6 +722,7 @@
         ]
     },
     {
+        "_id": "87q5mhgk",
         "name": "ODP 7",
         "type": "odp",
         "time": {"date": "20/01/2024", "hour": "12:00"},
@@ -740,6 +760,7 @@
         ]
     },
     {
+        "_id": "954000p",
         "name": "ODP 8",
         "type": "odp",
         "time": {"date": "21/01/2024", "hour": "12:00"},
@@ -777,6 +798,7 @@
         ]
     },
     {
+        "_id": "7689q95",
         "name": "Tiang 1",
         "type": "pole",
         "time": {"date": "22/01/2024", "hour": "12:00"},
@@ -814,6 +836,7 @@
         ]
     },
     {
+        "_id": "321123kk",
         "name": "Tiang 2",
         "type": "pole",
         "time": {"date": "23/01/2024", "hour": "12:00"},
@@ -851,6 +874,7 @@
         ]
     },
     {
+        "_id": "00011plkl",
         "name": "Tiang 3",
         "type": "pole",
         "time": {"date": "24/01/2024", "hour": "12:00"},
@@ -888,6 +912,7 @@
         ]
     },
     {
+        "_id": "123789avc",
         "name": "Tiang 4",
         "type": "pole",
         "time": {"date": "25/01/2024", "hour": "12:00"},
@@ -925,6 +950,7 @@
         ]
     },
     {
+        "_id": "jkkf667",
         "name": "Tiang 5",
         "type": "pole",
         "time": {"date": "26/01/2024", "hour": "12:00"},
@@ -962,6 +988,7 @@
         ]
     },
     {
+        "_id": "pkoalgf890",
         "name": "Tiang 6",
         "type": "pole",
         "time": {"date": "27/01/2024", "hour": "12:00"},
@@ -999,6 +1026,7 @@
         ]
     },
     {
+        "_id": "pjaogj000",
         "name": "Tiang 7",
         "type": "pole",
         "time": {"date": "28/01/2024", "hour": "12:00"},
@@ -1036,6 +1064,7 @@
         ]
     },
     {
+        "_id": "32197yhif",
         "name": "Tiang 8",
         "type": "pole",
         "time": {"date": "29/01/2024", "hour": "12:00"},
@@ -1073,6 +1102,7 @@
         ]
     },
     {
+        "_id": "8765lgkjjh",
         "name": "Tiang 9",
         "type": "pole",
         "time": {"date": "30/01/2024", "hour": "12:00"},
@@ -1110,6 +1140,7 @@
         ]
     },
     {
+        "_id": "97ljjg",
         "name": "Tiang 10",
         "type": "pole",
         "time": {"date": "31/01/2024", "hour": "12:00"},
@@ -1147,6 +1178,7 @@
         ]
     },
     {
+        "_id": "75ymbk",
         "name": "Tiang 11",
         "type": "pole",
         "time": {"date": "01/02/2024", "hour": "12:00"},
@@ -1184,6 +1216,7 @@
         ]
     },
     {
+        "_id": "09nskg",
         "name": "Tiang 12",
         "type": "pole",
         "time": {"date": "02/02/2024", "hour": "12:00"},
@@ -1221,6 +1254,7 @@
         ]
     },
     {
+        "_id": "9000qqqc",
         "name": "Tiang 13",
         "type": "pole",
         "time": {"date": "03/02/2024", "hour": "12:00"},
@@ -1258,6 +1292,7 @@
         ]
     },
     {
+        "_id": "jgjsegn",
         "name": "Tiang 14",
         "type": "pole",
         "time": {"date": "04/02/2024", "hour": "12:00"},
@@ -1295,6 +1330,7 @@
         ]
     },
     {
+        "_id": "hhhjk89",
         "name": "Tiang 15",
         "type": "pole",
         "time": {"date": "05/02/2024", "hour": "12:00"},
@@ -1332,6 +1368,7 @@
         ]
     },
     {
+        "_id": "aovcsa555",
         "name": "Tiang 16",
         "type": "pole",
         "time": {"date": "06/02/2024", "hour": "12:00"},
@@ -1369,6 +1406,7 @@
         ]
     },
     {
+        "_id": "78kzzvzzz",
         "name": "Tiang 17",
         "type": "pole",
         "time": {"date": "07/02/2024", "hour": "12:00"},
