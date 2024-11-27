@@ -2,7 +2,7 @@
     {
         "id": "sjavs",
         "name": "Wisma 46",
-        "type": "pop",
+        "type": 8,
         "time": {"date": "01/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.203740366012189,
@@ -40,7 +40,7 @@
     {
         "id": "8udvja",
         "name": "BSD Greeen Office",
-        "type": "pop",
+        "type": 8,
         "time": {"date": "02/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.299881907715208,
@@ -78,7 +78,7 @@
     {
         "id": "6vhal",
         "name": "Puri Indah Mall",
-        "type": "odc",
+        "type": 7,
         "time": {"date": "03/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.188686561168089,
@@ -116,7 +116,7 @@
     {
         "id": "sva09",
         "name": "Universitas Marcu Buana",
-        "type": "client",
+        "type": 6,
         "time": {"date": "04/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.20937579810168,
@@ -154,7 +154,7 @@
     {
         "id": "inva",
         "name": "Pondok Indah Mall",
-        "type": "client",
+        "type": 6,
         "time": {"date": "05/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.263684163807168,
@@ -192,7 +192,7 @@
     {
         "id": "kvasafasv",
         "name": "AEON Mall",
-        "type": "client",
+        "type": 6,
         "time": {"date": "06/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.305289862096338,
@@ -230,7 +230,7 @@
     {
         "id": "vaslsf",
         "name": "HH 1",
-        "type": "hh",
+        "type": 5,
         "time": {"date": "07/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.229186073976287,
@@ -268,7 +268,7 @@
     {
         "id": "cakvoasmv",
         "name": "HH 2",
-        "type": "hh",
+        "type": 5,
         "time": {"date": "08/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.23901868489064,
@@ -306,7 +306,7 @@
     {
         "id": "83ugvdnsg",
         "name": "Closure 1",
-        "type": "closure",
+        "type": 3,
         "time": {"date": "09/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.229186073976287,
@@ -344,7 +344,7 @@
     {
         "id": "v7hakv",
         "name": "Closure 2",
-        "type": "closure",
+        "type": 3,
         "time": {"date": "10/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.23901868489064,
@@ -382,7 +382,7 @@
     {
         "id": "0ndkva",
         "name": "Closure 3",
-        "type": "closure",
+        "type": 3,
         "time": {"date": "11/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.234979231437773,
@@ -420,7 +420,7 @@
     {
         "id": "8valvv",
         "name": "Closure 4",
-        "type": "closure",
+        "type": 3,
         "time": {"date": "12/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.244266521233141,
@@ -458,7 +458,7 @@
     {
         "id": "1234kfm",
         "name": "Closure 5",
-        "type": "closure",
+        "type": 3,
         "time": {"date": "13/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.283570137533287,
@@ -496,7 +496,7 @@
     {
         "id": "0jagm",
         "name": "ODP 1",
-        "type": "odp",
+        "type": 4,
         "time": {"date": "14/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.209039279191188,
@@ -534,7 +534,7 @@
     {
         "id": "88gjalg",
         "name": "ODP 2",
-        "type": "odp",
+        "type": 4,
         "time": {"date": "15/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.221026865871118,
@@ -572,7 +572,7 @@
     {
         "id": "777gjagm",
         "name": "ODP 3",
-        "type": "odp",
+        "type": 4,
         "time": {"date": "16/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.237554092576467,
@@ -610,7 +610,7 @@
     {
         "id": "udgangk3",
         "name": "ODP 4",
-        "type": "odp",
+        "type": 4,
         "time": {"date": "17/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.220187128861757,
@@ -648,7 +648,7 @@
     {
         "id": "56lld99",
         "name": "ODP 5",
-        "type": "odp",
+        "type": 4,
         "time": {"date": "18/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.197973071499316,
@@ -686,7 +686,7 @@
     {
         "id": "vakngnag9",
         "name": "ODP 6",
-        "type": "odp",
+        "type": 4,
         "time": {"date": "19/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.229444656810559,
@@ -724,7 +724,7 @@
     {
         "id": "87q5mhgk",
         "name": "ODP 7",
-        "type": "odp",
+        "type": 4,
         "time": {"date": "20/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.255771488708132,
@@ -762,7 +762,7 @@
     {
         "id": "954000p",
         "name": "ODP 8",
-        "type": "odp",
+        "type": 4,
         "time": {"date": "21/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.283951005051823,
@@ -800,7 +800,7 @@
     {
         "id": "7689q95",
         "name": "Tiang 1",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "22/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.300187575294919,
@@ -838,7 +838,7 @@
     {
         "id": "321123kk",
         "name": "Tiang 2",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "23/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.293032116546406,
@@ -876,7 +876,7 @@
     {
         "id": "00011plkl",
         "name": "Tiang 3",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "24/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.28081095077185,
@@ -914,7 +914,7 @@
     {
         "id": "123789avc",
         "name": "Tiang 4",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "25/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.267232178126514,
@@ -952,7 +952,7 @@
     {
         "id": "jkkf667",
         "name": "Tiang 5",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "26/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.252965961999497,
@@ -990,7 +990,7 @@
     {
         "id": "pkoalgf890",
         "name": "Tiang 6",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "27/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.231913109560736,
@@ -1028,7 +1028,7 @@
     {
         "id": "pjaogj000",
         "name": "Tiang 7",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "28/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.224775084855121,
@@ -1066,7 +1066,7 @@
     {
         "id": "32197yhif",
         "name": "Tiang 8",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "29/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.232159037212683,
@@ -1104,7 +1104,7 @@
     {
         "id": "8765lgkjjh",
         "name": "Tiang 9",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "30/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.236646976944196,
@@ -1142,7 +1142,7 @@
     {
         "id": "97ljjg",
         "name": "Tiang 10",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "31/01/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.238279293381915,
@@ -1180,7 +1180,7 @@
     {
         "id": "75ymbk",
         "name": "Tiang 11",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "01/02/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.233565321092907,
@@ -1218,7 +1218,7 @@
     {
         "id": "09nskg",
         "name": "Tiang 12",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "02/02/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.21754183015111,
@@ -1256,7 +1256,7 @@
     {
         "id": "9000qqqc",
         "name": "Tiang 13",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "03/02/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.227376948964107,
@@ -1294,7 +1294,7 @@
     {
         "id": "jgjsegn",
         "name": "Tiang 14",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "04/02/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.21477852604438,
@@ -1332,7 +1332,7 @@
     {
         "id": "hhhjk89",
         "name": "Tiang 15",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "05/02/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.202831566457658,
@@ -1370,7 +1370,7 @@
     {
         "id": "aovcsa555",
         "name": "Tiang 16",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "06/02/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.192722166650666,
@@ -1408,7 +1408,7 @@
     {
         "id": "78kzzvzzz",
         "name": "Tiang 17",
-        "type": "pole",
+        "type": 2,
         "time": {"date": "07/02/2024", "hour": "12:00"},
         "coordinates": [{
             "lat": -6.190852215642356,
